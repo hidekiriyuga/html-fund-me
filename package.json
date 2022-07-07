@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "eth-rpc-errors": "^4.0.3"
+  }
+}
